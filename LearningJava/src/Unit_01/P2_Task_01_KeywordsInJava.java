@@ -1,4 +1,4 @@
-/* Keywords in java can not be used as identifieres in Java
+/* Keywords in java can not be used as identifires in Java
 -Object
 -Variable name
 -Function
