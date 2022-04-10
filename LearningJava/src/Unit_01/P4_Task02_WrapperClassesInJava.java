@@ -3,7 +3,7 @@ package Unit_01;
 public class P4_Task02_WrapperClassesInJava {
 
 	public static void main(String[] args) {
-	 //converting int into Interger
+	 //converting int into Integer
 		int a = 20;
 		String s = "" + a + "";
 		Integer i = Integer.valueOf(a);//converting int into Integer explicitly
