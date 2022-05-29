@@ -6,7 +6,7 @@ Q6. As given there are two sample methods: First one returns the sum of
 	a-b is negative then return value would be 0. Use ternary operator to call
 	these two methods. If a>b then ternary should call sum(a,b) but if a<b
 	then ternary operator should call sub(a,b). Eventually print the result of
-	the ternary operation on variables a and b.
+	the ternary operation on variable a and b.
 	Note: Ternary operator can call a method even for true and false values
  */
 public class Q_11 {
